@@ -1,0 +1,50 @@
+h1 {
+  color: black;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 50px;
+  font-family: lobster;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 58px;
+  font-family: lobster;
+}
+
+h3 {
+  color: gray;
+  text-align: center;
+  font-size: 25px;
+  font-family: lobster;
+}
+
+p {
+  color: orange;
+  text-align: center;
+}
+
+.homepage-links {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+
+.homepage-links a {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  font-family: lobster;
+}
+
+.contact-me {
+  border: 1px solid purple;
+  background-color: purple;
+  font-family: lobster;
+}
+
+.about-me {
+  border: 1px solid purple;
+}
