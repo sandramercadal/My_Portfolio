@@ -1,7 +1,7 @@
 h1 {
   color: black;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 60px;
   font-size: 50px;
   font-family: lobster;
 }
@@ -9,7 +9,7 @@ h1 {
 h2 {
   color: black;
   text-align: center;
-  font-size: 58px;
+  font-size: 69px;
   font-family: lobster;
 }
 
@@ -20,15 +20,20 @@ h3 {
   font-family: lobster;
 }
 
+h4 {
+  text-align: left;
+  font-size: 45px;
+}
 p {
-  color: orange;
-  text-align: center;
+  color: black;
+  text-align: left;
 }
 
 .homepage-links {
   display: flex;
   margin-top: 40px;
   justify-content: center;
+  margin-bottom: 50px;
 }
 
 .homepage-links a {
@@ -47,4 +52,14 @@ p {
 
 .about-me {
   border: 1px solid purple;
+}
+
+.applaunch-link {
+  border: 1px solid purple;
+  background-color: purple;
+  font-family: lobster;
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
 }
