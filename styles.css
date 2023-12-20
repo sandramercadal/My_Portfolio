@@ -63,3 +63,12 @@ p {
   padding: 20px 15px;
   text-decoration: none;
 }
+
+.img-md {
+  max-width: 75%;
+}
+
+.img-container {
+  background-color: pink;
+  padding: 40px 0;
+}
